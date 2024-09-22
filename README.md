@@ -67,6 +67,9 @@
 </div>  
 
 <br/>  
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BALAVIGNESHWARAN23&bg_color=000000&color=ffffff&line=001eff&point=4ca5c2&area=true&hide_border=true" style="width: 100%" />
+</div>  
 
 <div align="center">
   [![Balavigneshwaran's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BALAVIGNESHWARAN23&bg_color=000000&color=ffffff&line=001eff&point=4ca5c2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)

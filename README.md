@@ -62,13 +62,13 @@
 <table>
   <tr>
   <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="100" height="100" alt="GitHub" />
       <br>Github
     </td>
 
    <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="100" height="100" />
       </a>
       <br>Python
     </td>
@@ -116,10 +116,6 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=sentry" width="48" height="48" alt="dart" />
       <br>sentry
-    </td>
-    <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="48" height="48" alt="dart" />
-      <br>Celery
     </td>
   </tr>
  <tr>

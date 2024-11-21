@@ -4,12 +4,7 @@
 
 ## ***<div align="center">I'm Balavigneshwaran, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>***  
 
-<br/>  
-
-## My Skill Set  
-<table>
-<tr>
-<td valign="top" width="33%">
+<br/> 
 
 
 ## My favorite tools and technologies ⚙️

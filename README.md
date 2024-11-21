@@ -57,7 +57,7 @@
 </table>
 
 
-Tools and technologies that I have worked with and am interested in
+## My favorite tools and technologies ⚙️
 
 <table>
   <tr>

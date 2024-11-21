@@ -129,22 +129,14 @@
 </div>
 
 <div align="center">
-  <h2>Hosting & Deployment</h2>
-  <div align="center">
-    <!-- Render Logo -->
-    <a href="https://render.com/" target="_blank">
-      <img style="margin: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Render_Logo.svg/1200px-Render_Logo.svg.png" alt="Render Logo" height="75" />
-    </a>
-<!-- Vercel Logo -->
-    <a href="https://vercel.com/" target="_blank">
-      <img style="margin: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Vercel_logo.svg/800px-Vercel_logo.svg.png" alt="Vercel Logo" height="75" />
-    </a>
-<!-- Streamlit Logo -->
-    <a href="https://streamlit.io/" target="_blank">
-      <img style="margin: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Streamlit_logo.svg/1024px-Streamlit_logo.svg.png" alt="Streamlit Logo" height="75" />
-    </a>
-  </div>
+  <h2>Frontend Technologies</h2>
+  <p>Click below to view an animated HTML logo.</p>
+  <a href="https://iconscout.com/lottie-animation/html-logo-11992031" target="_blank">
+    <img src="https://cdn.iconscout.com/lottie/premium/thumb/html-logo-11992031-12034591.png" alt="HTML Logo Animation" height="150" />
+  </a>
 </div>
+
+
 
 
 ## Connect with me  

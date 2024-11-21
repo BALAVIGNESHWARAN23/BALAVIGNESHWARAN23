@@ -56,7 +56,10 @@
 </tr>
 </table>
 
----
+## Snake Graph  
+<div align="center">
+  <img src="https://github.com/BALAVIGNESHWARAN23/BALAVIGNESHWARAN23/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+</div>
 
 ## Connect with me  
 <div align="center">

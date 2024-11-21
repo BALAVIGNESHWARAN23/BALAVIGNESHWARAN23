@@ -73,48 +73,48 @@
       <br>Python
     </td>
     <td align="center" width="110">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" height="100" />
       <br>Javascript
     </td>
           <td align="center" width="110">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" alt="React.js" />
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="100" height="100" alt="React.js" />
       <br>React.js
     </td>
   </tr>
   <tr>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+    <td align="center"  width="110">
+        <img src="https://skillicons.dev/icons?i=html" width="100" height="100" alt="HTML" />
       <br>HTML
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+    <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=css" width="100" height="100" alt="css" />
       <br>CSS
     </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+    <td align="center"  width="110">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="100" height="100" alt="bootstrap" />
       <br>Bootstrap
     </td>
-        <td align="center" width="96">
-        <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" width="48" height="48" alt="Node js" />
+        <td align="center" width="110">
+        <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" width="100" height="100" alt="Node js" />
       <br>Node js
     </td>
   </tr>
    <tr>
-   <td align="center" width="96">
-        <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" width="48" height="48" alt="Mongo DB" />
+   <td align="center" width="110">
+        <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" width="100" height="100" alt="Mongo DB" />
       <br>Mongo DB
     </td>
 
-   <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+   <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=postman" width="100" height="100" alt="Postman" />
       <br>Postman
         </td>
-    <td align="center" width="96">
-        <img src="https://profilinator.rishav.dev/skills-assets/flask.png" width="48" height="48" alt="dart" />
+    <td align="center" width="110">
+        <img src="https://profilinator.rishav.dev/skills-assets/flask.png" width="100" height="100" alt="dart" />
       <br>Flask
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sentry" width="48" height="48" alt="dart" />
+    <td align="center" width="110">
+        <img src="https://skillicons.dev/icons?i=sentry" width="100" height="100" alt="dart" />
       <br>sentry
     </td>
   </tr>

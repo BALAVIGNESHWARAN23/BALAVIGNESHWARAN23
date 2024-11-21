@@ -14,7 +14,10 @@
 
 ## My favorite tools and technologies ⚙️
 
-<table>
+> Tools and technologies that I have worked with and am interested in
+
+
+<table align="center">
   <tr>
   <td align="center" width="110">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="100" height="100" alt="GitHub" />

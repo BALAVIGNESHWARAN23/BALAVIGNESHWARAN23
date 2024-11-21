@@ -128,18 +128,23 @@
   <img src="https://github.com/BALAVIGNESHWARAN23/BALAVIGNESHWARAN23/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
 </div>
 
-  <a href="https://render.com/" target="_blank">
-      <svg style="margin: 10px;" xmlns="http://www.w3.org/2000/svg" width="75" height="75" viewBox="0 0 50 50">
-        <g fill="none" stroke="#4c6ef5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-          <circle cx="25" cy="25" r="24" stroke-dasharray="150 100" stroke-dashoffset="0">
-            <animate attributeName="stroke-dashoffset" from="0" to="-250" dur="2s" repeatCount="indefinite" />
-          </circle>
-          <path d="M25 5 L35 45 L15 45 Z" fill="#4c6ef5" stroke="#000" opacity="0.9">
-            <animate attributeName="opacity" from="0.5" to="1" dur="1s" repeatCount="indefinite" />
-          </path>
-        </g>
-      </svg>
+<div align="center">
+  <h2>Hosting & Deployment</h2>
+  <div align="center">
+    <!-- Render Logo -->
+    <a href="https://render.com/" target="_blank">
+      <img style="margin: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Render_Logo.svg/1200px-Render_Logo.svg.png" alt="Render Logo" height="75" />
     </a>
+<!-- Vercel Logo -->
+    <a href="https://vercel.com/" target="_blank">
+      <img style="margin: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Vercel_logo.svg/800px-Vercel_logo.svg.png" alt="Vercel Logo" height="75" />
+    </a>
+<!-- Streamlit Logo -->
+    <a href="https://streamlit.io/" target="_blank">
+      <img style="margin: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Streamlit_logo.svg/1024px-Streamlit_logo.svg.png" alt="Streamlit Logo" height="75" />
+    </a>
+  </div>
+</div>
 
 
 ## Connect with me  

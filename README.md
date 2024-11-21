@@ -61,22 +61,22 @@
 
 <table>
   <tr>
-  <td align="center" width="96">
+  <td align="center" width="110">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="100" height="100" alt="GitHub" />
       <br>Github
     </td>
 
-   <td align="center" width="96">
+   <td align="center" width="110">
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="100" height="100" />
       </a>
       <br>Python
     </td>
-    <td align="center" width="96">
+    <td align="center" width="110">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>Javascript
     </td>
-          <td align="center" width="96">
+          <td align="center" width="110">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" alt="React.js" />
       <br>React.js
     </td>

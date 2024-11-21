@@ -61,11 +61,12 @@
 
 <table>
   <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
+  <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+      <br>Github
     </td>
-    <td align="center" width="96">
+
+   <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
       </a>
@@ -75,40 +76,12 @@
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>Javascript
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
-    </td>
-       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
-    </td>
-       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-      <br>Github
-    </td>
           <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Rest API
-    </td>
-          <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
-      <br>Nginx
+        <img src=""https://techstack-generator.vercel.app/react-icon.svg"" width="65" height="65" alt="React.js" />
+      <br>React.js
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
-      <br>GitLab
-    </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
@@ -121,40 +94,16 @@
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
       <br>Bootstrap
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
-    </td>
         <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
-      <br>JQuery
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
-      <br>PostgreSQL
-    </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET Core" />
-      <br>ASP.NET
+        <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" width="48" height="48" alt="Mongo DB" />
+      <br>Mongo DB
     </td>
   </tr>
    <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-      <br>Redis
-    </td>
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
       <br>Postman
-    </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
-      <br>Dart
-    </td>
+        </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="dart" />
       <br>RabbitMQ
@@ -166,14 +115,6 @@
     <td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="48" height="48" alt="dart" />
       <br>Celery
-    </td>
-    <td align="center" width="96">
-        <img src="https://docusaurus.io/img/docusaurus_keytar.svg" width="48" height="48" alt="dart" />
-      <br>Docusaurus
-    </td>
-    <td align="center" width="96">
-        <img src="https://bruhin.software/img/logos/pytest.svg" width="40" height="40" alt="dart" />
-      <br>Pytest
     </td>
   </tr>
  <tr>
@@ -201,6 +142,20 @@
 </div>  
 
 <br/>  
+
+   <a href="https://render.com/" target="_blank">
+      <svg style="margin: 10px;" xmlns="http://www.w3.org/2000/svg" width="75" height="75" viewBox="0 0 50 50">
+        <g fill="none" stroke="#4c6ef5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="25" cy="25" r="24" stroke-dasharray="150 100" stroke-dashoffset="0">
+            <animate attributeName="stroke-dashoffset" from="0" to="-250" dur="2s" repeatCount="indefinite" />
+          </circle>
+          <path d="M25 5 L35 45 L15 45 Z" fill="#4c6ef5" stroke="#000" opacity="0.9">
+            <animate attributeName="opacity" from="0.5" to="1" dur="1s" repeatCount="indefinite" />
+          </path>
+        </g>
+      </svg>
+    </a>
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BALAVIGNESHWARAN23&bg_color=000000&color=ffffff&line=001eff&point=4ca5c2&area=true&hide_border=true" style="width: 100%" />

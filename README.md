@@ -81,23 +81,6 @@
 </table>
 
 
-
-## Snake Graph  
-<div align="center">
-  <img src="https://github.com/BALAVIGNESHWARAN23/BALAVIGNESHWARAN23/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
-</div>
-
-<div align="center">
-  <h2>Frontend Technologies</h2>
-  <p>Click below to view an animated HTML logo.</p>
-  <a href="https://iconscout.com/lottie-animation/html-logo-11992031" target="_blank">
-    <img src="https://cdn.iconscout.com/lottie/premium/thumb/html-logo-11992031-12034591.png" alt="HTML Logo Animation" height="150" />
-  </a>
-</div>
-
-
-
-
 ## Connect with me  
 <div align="center">
   <a href="https://linkedin.com/in/rishavanand" target="_blank">

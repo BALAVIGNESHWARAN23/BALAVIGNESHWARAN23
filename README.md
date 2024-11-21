@@ -95,18 +95,23 @@
       <br>Bootstrap
     </td>
         <td align="center" width="96">
-        <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" width="48" height="48" alt="Mongo DB" />
-      <br>Mongo DB
+        <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" width="48" height="48" alt="Node js" />
+      <br>Node js
     </td>
   </tr>
    <tr>
-        <td align="center" width="96">
+   <td align="center" width="96">
+        <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" width="48" height="48" alt="Mongo DB" />
+      <br>Mongo DB
+    </td>
+
+   <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
       <br>Postman
         </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="dart" />
-      <br>RabbitMQ
+        <img src="https://profilinator.rishav.dev/skills-assets/flask.png" width="48" height="48" alt="dart" />
+      <br>Flask
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=sentry" width="48" height="48" alt="dart" />

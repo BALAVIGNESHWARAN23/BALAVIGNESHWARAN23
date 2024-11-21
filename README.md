@@ -41,7 +41,7 @@
   </tr>
   <tr>
     <td align="center"  width="110">
-        <img src="https://skillicons.dev/icons?i=html" width="100" height="100" alt="HTML" />
+        <img src="https://iconscout.com/free-lottie-animation/html-5-4740783" width="100" height="100" alt="HTML" />
       <br>HTML
     </td>
     <td align="center" width="110">

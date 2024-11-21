@@ -15,59 +15,59 @@
 
 <table align="center">
   <tr>
-  <td align="center" width="110">
+  <td align="center" width="109">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="100" height="100" alt="GitHub" />
       <br>Github
     </td>
 
-   <td align="center" width="110">
+   <td align="center" width="109">
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="100" height="100" />
       </a>
       <br>Python
     </td>
-    <td align="center" width="110">
+    <td align="center" width="109">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" height="100" />
       <br>Javascript
     </td>
-          <td align="center" width="110">
+          <td align="center" width="109">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="100" height="100" alt="React.js" />
       <br>React.js
     </td>
   </tr>
   <tr>
-    <td align="center"  width="110">
+    <td align="center"  width="109">
         <img src="https://skillicons.dev/icons?i=html" width="100" height="100" alt="HTML" />
       <br>HTML
     </td>
-    <td align="center" width="110">
+    <td align="center" width="109">
         <img src="https://skillicons.dev/icons?i=css" width="100" height="100" alt="css" />
       <br>CSS
     </td>
-    <td align="center"  width="110">
+    <td align="center"  width="109">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="100" height="100" alt="bootstrap" />
       <br>Bootstrap
     </td>
-        <td align="center" width="110">
+        <td align="center" width="109">
         <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" width="100" height="100" alt="Node js" />
       <br>Node js
     </td>
   </tr>
    <tr>
-   <td align="center" width="110">
+   <td align="center" width="109">
         <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" width="100" height="100" alt="Mongo DB" />
       <br>Mongo DB
     </td>
 
-   <td align="center" width="110">
+   <td align="center" width="109">
         <img src="https://skillicons.dev/icons?i=postman" width="100" height="100" alt="Postman" />
       <br>Postman
         </td>
-    <td align="center" width="110">
+    <td align="center" width="109">
         <img src="https://profilinator.rishav.dev/skills-assets/flask.png" width="100" height="100" alt="dart" />
       <br>Flask
     </td>
-    <td align="center" width="110">
+    <td align="center" width="109">
         <img src="https://skillicons.dev/icons?i=vercel" width="100" height="100" alt="dart" />
       <br>Vercel 
     </td>

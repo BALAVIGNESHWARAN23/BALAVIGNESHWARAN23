@@ -6,8 +6,8 @@
 
 <br/> 
 
-<div align="center" style="border: 2 solid orange; padding: 10;>
-  ##<p>Visit my portfolio: <a href="https://balavigneshwaranp.vercel.app" target="_blank">balavigneshwaran.com</a></p>
+<div align="center">
+  ## <p>Visit my portfolio: <a href="https://balavigneshwaranp.vercel.app" target="_blank">balavigneshwaran.com</a></p>
 </div>
 
 ## My favorite tools and technologies ⚙️

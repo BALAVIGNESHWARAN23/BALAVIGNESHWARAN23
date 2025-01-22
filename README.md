@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="center" style="width: 100" />
+    <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" align="center" width="100" />
 </div>
 
 ## ***<div align="center">I'm Balavigneshwaran, a full-time full-stack freelance developer 👨‍💻 working remotely since 2024 🚀</div>***
@@ -7,9 +7,10 @@
 <br/> 
 
 <div align="center">
-    ***<p>Visit my portfolio: <a href="https://balavigneshwaranp.vercel.app" target="_blank">balavigneshwaran.com</a></p>***
+    <p style="font-weight: bold; text-decoration: underline; text-decoration-color: orange;">
+        Visit my portfolio: <a href="https://balavigneshwaranp.vercel.app" target="_blank">balavigneshwaran.com</a>
+    </p>
 </div>
-
 ## My favorite tools and technologies ⚙️
 
 > Tools and technologies that I have worked with and am interested in

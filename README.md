@@ -90,3 +90,10 @@
 </div>  
 
 ![Contribution Snake](https://raw.githubusercontent.com/BALAVIGNESHWARAN23/BALAVIGNESHWARAN23/output/github-contribution-grid-snake.gif)
+
+
+<div align="center">
+    
+  ![snake gif](https://github.com/BALAVIGNESHWARAN23/BALAVIGNESHWARAN23/blob/output/github-snake-dark.svg)
+</div>
+

@@ -7,7 +7,7 @@
 <br/> 
 
 <div align="center">
-  ## **<p>Visit my portfolio: <a href="https://balavigneshwaranp.vercel.app" target="_blank">balavigneshwaran.com</a></p>**
+  ## **Visit my portfolio: [balavigneshwaran.com](https://balavigneshwaranp.vercel.app)**
 </div>
 
 ## My favorite tools and technologies ⚙️

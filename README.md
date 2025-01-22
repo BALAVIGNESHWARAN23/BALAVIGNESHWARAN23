@@ -6,7 +6,7 @@
 
 <br/> 
 
-<div align="center">
+<div align="center" style="border: 2px solid orange; padding: 10px;>
   <p>Visit my portfolio: <a href="https://balavigneshwaranp.vercel.app" target="_blank">balavigneshwaran.com</a></p>
 </div>
 

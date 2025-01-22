@@ -1,41 +1,35 @@
-name: GitHub Profile Scanner
+name: Generate Snake Gif
 
 on:
   schedule:
-    - cron: "0 2 * * *" # Runs daily at 2 AM
+    - cron: "0 0 * * *" # Runs daily at midnight
   workflow_dispatch: # Allows manual trigger
 
 jobs:
-  scan-profile:
+  generate-snake:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Code
+      - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Analyze Profile Repositories
-        run: |
-          echo "Scanning repositories of BALAVIGNESHWARAN23..."
-          curl -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
-          https://api.github.com/users/BALAVIGNESHWARAN23/repos \
-          | jq '.[] | {name: .name, stars: .stargazers_count, forks: .forks_count}' > repositories.json
-          cat repositories.json
+      - name: Generate Snake Animation
+        uses: Platane/snk@v2
+        with:
+          github_user_name: BALAVIGNESHWARAN23
+          outputs: dist/snake.svg
 
-      - name: Generate Contribution Report
-        run: |
-          echo "Fetching contributions for BALAVIGNESHWARAN23..."
-          curl -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
-          https://api.github.com/users/BALAVIGNESHWARAN23/events \
-          > contributions.json
-          cat contributions.json
-
-      - name: Upload Scan Results
+      - name: Upload Snake Gif
         uses: actions/upload-artifact@v3
         with:
-          name: github-scan-results
-          path: |
-            repositories.json
-            contributions.json
+          name: github-contribution-grid-snake
+          path: dist/snake.svg
 
-      - name: Notify Completion
-        run: echo "Scan completed for BALAVIGNESHWARAN23's GitHub profile!"
+      - name: Commit and Push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "GitHub Actions"
+          mv dist/snake.svg output/github-contribution-grid-snake.gif
+          git add output/github-contribution-grid-snake.gif
+          git commit -m "Generated contribution snake gif"
+          git push

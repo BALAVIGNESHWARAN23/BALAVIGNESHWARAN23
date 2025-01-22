@@ -6,11 +6,6 @@
 
 <br/> 
 
-<div align="center">
-<p style="font-weight: bold; text-decoration: underline; text-decoration-color: orange;">
-        Visit my portfolio: <a href="https://balavigneshwaranp.vercel.app" target="_blank">balavigneshwaran.com</a>
-</p>
-</div>
 ## My favorite tools and technologies ⚙️
 
 > Tools and technologies that I have worked with and am interested in

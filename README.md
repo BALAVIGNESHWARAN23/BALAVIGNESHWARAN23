@@ -4,61 +4,53 @@
 
 ## ***<div align="center">I'm Balavigneshwaran, a full-time full-stack freelance developer 👨‍💻 working remotely since 2024 🚀</div>***
 
-<br/>
+<br/> 
 
 <div align="center">
     <p style="font-weight: bold; text-decoration: underline; text-decoration-color: orange;">
         Visit my portfolio: <a href="https://balavigneshwaranp.vercel.app" target="_blank">balavigneshwaran.com</a>
     </p>
 </div>
-
 ## My favorite tools and technologies ⚙️
 
 > Tools and technologies that I have worked with and am interested in
 
+ 
+
 <table align="center">
   <tr>
-    <td align="center" width="109">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="100" height="100" alt="GitHub" />
+  <td align="center" width="109">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="100" height="100" alt="GitHub" />
       <br>Github
     </td>
 
-    <td align="center" width="109">
+   <td align="center" width="109">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="100" height="100" />
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="100" height="100" />
       </a>
       <br>Python
     </td>
-
     <td align="center" width="109">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Javascript" width="100" height="100" />
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" height="100" />
       <br>Javascript
     </td>
-
-    <td align="center" width="109">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React.js" width="100" height="100" />
+          <td align="center" width="109">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="100" height="100" alt="React.js" />
       <br>React.js
     </td>
   </tr>
   <tr>
-    <td align="center" width="109">
-      <img src="https://skillicons.dev/icons?i=html" width="100" height="100" alt="HTML" />
+    <td align="center"  width="109">
+        <img src="https://skillicons.dev/icons?i=html" width="100" height="100" alt="HTML" />
       <br>HTML
     </td>
-
     <td align="center" width="109">
-      <img src="https://skillicons.dev/icons?i=css" width="100" height="100" alt="CSS" />
+        <img src="https://skillicons.dev/icons?i=css" width="100" height="100" alt="css" />
       <br>CSS
     </td>
-
-    <td align="center" width="109">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="100" height="100" alt="Bootstrap" />
+    <td align="center"  width="109">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="100" height="100" alt="bootstrap" />
       <br>Bootstrap
     </td>
-
-    <td align="center" width="109">
-      <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" width="100" height="100" alt="Node.js" />
-      <br>Node.js
-    </td>
-  </tr>
-</table>
+        <td align="center" width="109">
+        <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" width="100" height="100" alt="Node js" />

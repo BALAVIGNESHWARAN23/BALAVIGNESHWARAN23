@@ -89,4 +89,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BALAVIGNESHWARAN23&bg_color=000000&color=ffffff&line=001eff&point=4ca5c2&area=true&hide_border=true" style="width: 100%" />
 </div>  
 
-![Snake GIF](https://raw.githubusercontent.com/BALAVIGNESHWARAN23/BALAVIGNESHWARAN23/output/github-contribution-grid-snake.svg)
+![Contribution Snake](https://raw.githubusercontent.com/BALAVIGNESHWARAN23/BALAVIGNESHWARAN23/output/github-contribution-grid-snake.gif)

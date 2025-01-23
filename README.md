@@ -91,8 +91,7 @@
 
 
 <div align="center">
-  <h2 style="text-align: center; font-size: 24px; margin-bottom: 20px; color: #ff0000;">GitHub Contribution Snake</h2>
-  ![snake gif](https://github.com/BALAVIGNESHWARAN23/BALAVIGNESHWARAN23/blob/output/github-snake-dark.svg)
-
+  <h2 style="text-align: center; font-size: 24px; margin-bottom: 20px; color: #ff0000;">GitHub Snake Contribution 🐍✨
+<img src="https://github.com/BALAVIGNESHWARAN23/BALAVIGNESHWARAN23/blob/output/github-snake-dark.svg"/></h2>
 </div>
 

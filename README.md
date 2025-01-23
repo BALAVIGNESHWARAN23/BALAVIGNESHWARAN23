@@ -95,7 +95,5 @@
   ![snake gif](https://github.com/BALAVIGNESHWARAN23/BALAVIGNESHWARAN23/blob/output/github-snake-dark.svg)
 
 
-![snake animation](https://github.com/BALAVIGNESHWARAN23/BALAVIGNESHWARAN23/blob/output/github-contribution-grid-snake2.svg)
-
 </div>
 
